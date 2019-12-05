@@ -1,4 +1,4 @@
-# 安卓开发底部标题栏模板，大家可以下载下来自行研究
-* 效果图如下所示：
+# 安卓开发底部标题栏模板
+* 效果图如下所示,欢迎大家star:
 
 ![image](https://github.com/Geeksongs/ButtonTitile/blob/master/123.gif)
